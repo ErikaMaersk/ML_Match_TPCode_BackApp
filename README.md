@@ -1,5 +1,5 @@
 # ML_Match_TPCode_BackApp
-This repository contains code, examples and documentation related to an initiative to predict backend applications associated with OpenText TPCodes. 
+This repository contains code and documentation related to an initiative to predict backend applications associated with OpenText TPCodes. 
 
 Objective - Match OpenText TP Codes to Backend Applications so that we can better identify and quantify OpenText's place in the wider Maersk technical landscape.
 
